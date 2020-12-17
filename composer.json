@@ -1,9 +1,8 @@
 {
-    "name": "symfony-bundles/json-request-bundle",
+    "name": "FlyingNarwhal/json-request-bundle",
     "type": "symfony-bundle",
     "description": "Symfony JsonRequest Bundle",
     "keywords": ["json", "symfony", "bundle", "angular"],
-    "homepage": "https://github.com/symfony-bundles/json-request-bundle",
     "license": "MIT",
     "authors": [
         {
