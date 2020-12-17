@@ -1,5 +1,5 @@
 {
-    "name": "FlyingNarwhal/json-request-bundle",
+    "name": "flying-narwhal/json-request-bundle",
     "type": "symfony-bundle",
     "description": "Symfony JsonRequest Bundle",
     "keywords": ["json", "symfony", "bundle", "angular"],
