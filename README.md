@@ -1,3 +1,5 @@
+> This package was recovered from local copy. It is not planned to maintain it.
+
 SymfonyBundles JsonRequest Bundle
 =================================
 
