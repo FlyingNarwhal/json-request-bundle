@@ -1,0 +1,38 @@
+{
+    "name": "symfony-bundles/json-request-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony JsonRequest Bundle",
+    "keywords": ["json", "symfony", "bundle", "angular"],
+    "homepage": "https://github.com/symfony-bundles/json-request-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Khaperets",
+            "email": "khaperets@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SymfonyBundles\\JsonRequestBundle\\": ""
+        },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
+    },
+    "require": {
+        "php": "^7.3",
+        "symfony/framework-bundle": "^4.3||^5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.4",
+        "phpunit/php-code-coverage": "^5.0",
+        "symfony/phpunit-bridge": "^4.3||^5.0",
+        "symfony/yaml": "^4.3||^5.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "3.x-dev"
+        }
+    }
+}
+
