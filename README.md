@@ -1,4 +1,9 @@
 > This package was recovered from local copy. It is not planned to maintain it.
+> 
+> To install use
+> ```
+> composer require flying-narwhal/json-request-bundle
+> ```
 
 SymfonyBundles JsonRequest Bundle
 =================================
