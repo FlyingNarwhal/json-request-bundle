@@ -52,7 +52,7 @@ Installation
 composer require symfony-bundles/json-request-bundle
 ```
 
-[package-link]: https://packagist.org/packages/symfony-bundles/json-request-bundle
+[package-link]: https://packagist.org/packages/flying-narwhal/json-request-bundle
 [license-link]: https://github.com/symfony-bundles/json-request-bundle/blob/master/LICENSE
 [license-image]: https://poser.pugx.org/symfony-bundles/json-request-bundle/license
 [testing-link]: https://travis-ci.org/symfony-bundles/json-request-bundle
