@@ -1,4 +1,5 @@
-[![Latest Stable Version][stable-image]][package-link]
+[![Latest Stable Version][stable-image]][package-link] 
+[![Total Downloads][downloads-image]][package-link]
 > This package was recovered from local copy. It is not planned to maintain it.
 > 
 > To install use
@@ -14,7 +15,7 @@ SymfonyBundles JsonRequest Bundle
 [![Build Status][testing-image]][testing-link]
 [![Scrutinizer Code Quality][scrutinizer-code-quality-image]][scrutinizer-code-quality-link]
 [![Code Coverage][code-coverage-image]][code-coverage-link]
-[![Total Downloads][downloads-image]][package-link]
+
 
 [![License][license-image]][license-link]
 
@@ -59,7 +60,7 @@ composer require symfony-bundles/json-request-bundle
 [testing-link]: https://travis-ci.org/symfony-bundles/json-request-bundle
 [testing-image]: https://travis-ci.org/symfony-bundles/json-request-bundle.svg?branch=master
 [stable-image]: https://poser.pugx.org/flying-narwhal/json-request-bundle/v/stable
-[downloads-image]: https://poser.pugx.org/symfony-bundles/json-request-bundle/downloads
+[downloads-image]: https://poser.pugx.org/flying-narwhal/json-request-bundle/downloads
 [sensiolabs-insight-link]: https://insight.sensiolabs.com/projects/dea68633-2368-4e12-a516-89157d2c6b07
 [sensiolabs-insight-image]: https://insight.sensiolabs.com/projects/dea68633-2368-4e12-a516-89157d2c6b07/big.png
 [code-coverage-link]: https://scrutinizer-ci.com/g/symfony-bundles/json-request-bundle/?branch=master
