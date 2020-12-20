@@ -1,5 +1,6 @@
 [![Latest Stable Version][stable-image]][package-link] 
 [![Total Downloads][downloads-image]][package-link]
+[![License][license-image]][license-link]
 > This package was recovered from local copy. It is not planned to maintain it.
 > 
 > To install use
@@ -17,7 +18,7 @@ SymfonyBundles JsonRequest Bundle
 [![Code Coverage][code-coverage-image]][code-coverage-link]
 
 
-[![License][license-image]][license-link]
+
 
 What is JsonRequest Bundle?
 ---------------------------
@@ -55,8 +56,8 @@ composer require symfony-bundles/json-request-bundle
 ```
 
 [package-link]: https://packagist.org/packages/flying-narwhal/json-request-bundle
-[license-link]: https://github.com/symfony-bundles/json-request-bundle/blob/master/LICENSE
-[license-image]: https://poser.pugx.org/symfony-bundles/json-request-bundle/license
+[license-link]: https://github.com/FlyingNarwhal/json-request-bundle/blob/main/LICENSE
+[license-image]: https://poser.pugx.org/flying-narwhal/json-request-bundle/license
 [testing-link]: https://travis-ci.org/symfony-bundles/json-request-bundle
 [testing-image]: https://travis-ci.org/symfony-bundles/json-request-bundle.svg?branch=master
 [stable-image]: https://poser.pugx.org/flying-narwhal/json-request-bundle/v/stable
