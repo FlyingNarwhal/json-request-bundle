@@ -1,12 +1,21 @@
+JsonRequest Bundle
+==================
+
 [![Latest Stable Version][stable-image]][package-link] 
 [![Total Downloads][downloads-image]][package-link]
 [![License][license-image]][license-link]
 > This package was recovered from local copy. It is not planned to maintain it.
 > 
-> To install use
-> ```
-> composer require flying-narwhal/json-request-bundle
-> ```
+
+Installation
+------------
+* Require the bundle with composer:
+
+``` bash
+composer require flying-narwhal/json-request-bundle
+```
+
+From original readme:
 
 SymfonyBundles JsonRequest Bundle
 =================================
@@ -47,21 +56,16 @@ public function indexAction(Request $request)
 }
 ```
 
-Installation
-------------
-* Require the bundle with composer:
-
-``` bash
-composer require symfony-bundles/json-request-bundle
-```
 
 [package-link]: https://packagist.org/packages/flying-narwhal/json-request-bundle
 [license-link]: https://github.com/FlyingNarwhal/json-request-bundle/blob/main/LICENSE
 [license-image]: https://poser.pugx.org/flying-narwhal/json-request-bundle/license
+[downloads-image]: https://poser.pugx.org/flying-narwhal/json-request-bundle/downloads
+[stable-image]: https://poser.pugx.org/flying-narwhal/json-request-bundle/v/stable
+
+
 [testing-link]: https://travis-ci.org/symfony-bundles/json-request-bundle
 [testing-image]: https://travis-ci.org/symfony-bundles/json-request-bundle.svg?branch=master
-[stable-image]: https://poser.pugx.org/flying-narwhal/json-request-bundle/v/stable
-[downloads-image]: https://poser.pugx.org/flying-narwhal/json-request-bundle/downloads
 [sensiolabs-insight-link]: https://insight.sensiolabs.com/projects/dea68633-2368-4e12-a516-89157d2c6b07
 [sensiolabs-insight-image]: https://insight.sensiolabs.com/projects/dea68633-2368-4e12-a516-89157d2c6b07/big.png
 [code-coverage-link]: https://scrutinizer-ci.com/g/symfony-bundles/json-request-bundle/?branch=master
