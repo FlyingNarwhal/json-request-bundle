@@ -10,6 +10,9 @@
             "email": "khaperets@gmail.com"
         }
     ],
+    "replace": {
+        "symfony-bundles/json-request-bundle": "3.1.1"
+    },
     "autoload": {
         "psr-4": {
             "SymfonyBundles\\JsonRequestBundle\\": ""
